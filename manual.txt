@@ -1,0 +1,28 @@
+MANUAL DE USO DE LA PÁGINA FINAL FANTASY VII REMAKE
+
+Esta página web está diseñada como una fanpage del juego Final Fantasy VII Remake.
+Se compone de tres archivos principales:
+
+1. index.html
+   Contiene la estructura de la página. En ella se definen las secciones:
+   - Portada con imagen principal del juego.
+   - Información sobre la historia.
+   - Galería de personajes principales.
+   - Datos curiosos del desarrollo.
+   - Sección interactiva con un botón que muestra frases míticas de los personajes.
+
+2. style.css
+   Define los estilos visuales de la página, con una estética inspirada en el estilo cyberpunk.
+   - Usa fuentes personalizadas (Orbitron y Open Sans).
+   - Aplica efectos de luz y brillo en los elementos.
+   - Contiene animaciones para resaltar secciones al hacer scroll (reveal).
+
+3. app.js
+   Añade interactividad a la página.
+   - Al pulsar el botón “Mostrar frase mítica”, se muestra aleatoriamente una cita famosa del juego.
+   - También activa animaciones de entrada en los elementos al desplazarse por la página.
+
+FUNCIONAMIENTO:
+Simplemente abre el archivo "index.html" en un navegador moderno.
+La página cargará con efectos visuales dinámicos y animaciones suaves.
+No requiere conexión a Internet para funcionar, excepto para cargar las fuentes de Google.
