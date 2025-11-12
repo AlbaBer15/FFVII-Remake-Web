@@ -1,0 +1,6 @@
+Nombre: Alba 
+Apellidos: Gómez Bernal
+Curso: 2º DAM
+Proyecto: Fan page - Final Fantasy VII Remake
+Módulo: Ampliación Sistemas Informáticos 
+Tema: GIT.
